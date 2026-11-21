@@ -40,7 +40,7 @@
   align-items: flex-start;
   font-style: normal;
   font-size: 18px;
-  line-height: 25px;
+  line-height: 1.4;
   text-underline-offset: 5px;
 }
 
@@ -112,20 +112,7 @@
   font-size: 22px;
   text-transform: uppercase;
   color: white;
-}
-
-.cover__description-auction {
-  word-spacing: 20px;
-}
-
-.cover__description-nobody {
-  word-spacing: 17px;
-  margin-left: 18px;
-}
-
-.cover__description-believed {
-  word-spacing: 18px;
-  margin-left: 20px;
+  word-spacing: 18.5px;
 }
 
 .bet-button {
@@ -254,7 +241,6 @@
 .about__title {
   margin-top: 136px;
   margin-bottom: 100px;
-  font-family: Raleway;
   font-weight: 700;
   font-size: 40px;
   line-height: 1.1;
